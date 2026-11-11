@@ -1,0 +1,13 @@
+<?svml using="@hypit/markup/run@1"?>
+<svrun version="1">
+  <author source="./reference.svml"/>
+  <target output="girl.image"/>
+  <target output="guy.image"/>
+  <target output="creatine.image"/>
+  <target output="split.image"/>
+  <target output="girl-hold.image"/>
+  <target output="guy-hold.image"/>
+  <target output="coffee.image"/>
+  <target output="smoothie.image"/>
+  <target output="pasta.image"/>
+</svrun>
